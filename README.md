@@ -1,6 +1,6 @@
 ### Hi there I am Marlon 👋
 
-I graduated from a Bachelors Degree In Applied Information Technology, I am currently looking for an ```Intership``` or a ```Work Position``` as a Front-end Software Developer / Full Stack Software Developer. 
+I graduated from a Bachelors Degree In Applied Information Technology, I am currently looking for an ```Internship``` or a ```Work Position``` as a Front-end Software Developer / Full Stack Software Developer. 
 
 ⚡I love working with:
 
