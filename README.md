@@ -25,6 +25,6 @@ I graduated from a Bachelors Degree In Applied Information Technology, I am curr
 🧑More About me:
 
 - 👀I like drawing and designing things. Check my [Behance](https://www.behance.net/marlonparra) and [Instagram](https://www.instagram.com/koaasy/).
-- 🧡I love reading books, I am currently reading ```Deep Work by Cale Newport```.
+- 🧡I love reading books, I am currently reading ```Problem Solving 101 by Ken Watanabe```.
 
 These are some of my book recommendations: The Slight Edge, Go Suck A Lemon, The Design of Everyday Things.  
